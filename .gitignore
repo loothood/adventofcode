@@ -1,0 +1,8 @@
+/target
+**/*.rs.bk
+Cargo.lock
+adventofcode.iml
+/adventofcodelib/Cargo.lock
+/adventofcodelib/target
+.DS_Store
+.idea

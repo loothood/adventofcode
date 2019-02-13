@@ -1,0 +1,8 @@
+[package]
+name = "adventofcode"
+version = "0.1.0"
+authors = ["gamak"]
+edition = "2018"
+
+[dependencies]
+adventofcodelib = { path = "adventofcodelib" }
